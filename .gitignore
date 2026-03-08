@@ -1,0 +1,19 @@
+# Vivado log and journal files
+*.jou
+*.log
+*.str
+*.dmp
+*.pb
+*.wdb
+
+# Vivado generated directories
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# OS generated files
+.DS_Store
+Thumbs.db
