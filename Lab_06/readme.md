@@ -12,6 +12,7 @@ Based on the current project directory, the files are organized as follows:
 - **`sim/`** (Simulation Files): Contains the testbench (`tb_pwm_generator.vhd`) used to verify the timing precision of the generated waveform at 50% and 25% duty cycles.
 - **`constraints/`** (Constraints): Contains the Xilinx Design Constraints file (`constraints.xdc`) with the physical pin mappings and timing constraints for the Basys 3 board.
 - **`EE_Lab_6_CanKurc.pdf`**: The final compiled Lab Report detailing the design, simulation results, and hardware verification with oscilloscope measurements.
+- **`lab6_assignment.pdf`**: The original lab assignment and instruction document provided for this project.
 
 ## ⚙️ Design Architecture
 
