@@ -23,3 +23,4 @@ Each lab folder typically contains:
 * **[Lab 03](./Lab_03)**
 * **[Lab 04](./Lab_04)**
 * **[Lab 05](./Lab_05)**
+* **[Lab 06](./Lab_06)**
